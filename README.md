@@ -39,7 +39,7 @@
   <br />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariofernandu&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +" width="130" />
+  <img src="https://komarev.com/ghpvc/?username=mariofernandu&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" width="130" />
   <br />
 </div>
 
