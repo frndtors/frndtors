@@ -22,7 +22,7 @@
     </h2>
     <ul>
       <li> 💬 Estudio inglés muy activamente, además Python y Java</li>
-      <li> 🎓 Actualmente, trabajo en una nueva interfaz para WHMCS utilizando VueJS</li>
+      <li> 🎓 Actualmente, trabajo en una nueva interfaz para WHMCS utilizando Angular y Spring Boot</li>
       <li>📫 Contáctame: <img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
         <a href="mailto:fernando@clotr.com" target="_blank">fernando@clotr.com</a>
       </li>
