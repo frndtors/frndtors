@@ -26,7 +26,7 @@
       <li>📫 Contáctame: <img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
         <a href="mailto:fernando@clotr.com" target="_blank">fernando@clotr.com</a>
       </li>
-      <li>📄 Aquí mi <a href="https://www.linkedin.com/in/mario-fernando-torres/" target="_blank">curriculum</a>
+      <li>📄 Aquí mi <a href="https://www.linkedin.com/in/frndtors" target="_blank">curriculum</a>
       </li>
     </ul>
   </div>
