@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/mario-fernando-torres/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:fernando@clotr.com" target="_blank">
+    <a href="mailto:job@frndtors.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
   </div>
@@ -24,7 +24,7 @@
       <li> 💬 Estudio inglés muy activamente, además Python y Java</li>
       <li> 🎓 Actualmente, trabajo en una nueva interfaz para WHMCS utilizando Angular y Spring Boot</li>
       <li>📫 Contáctame: <img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-        <a href="mailto:fernando@clotr.com" target="_blank">fernando@clotr.com</a>
+        <a href="mailto:job@frndtors.com" target="_blank">job@frndtors.com</a>
       </li>
       <li>📄 Aquí mi <a href="https://www.linkedin.com/in/frndtors" target="_blank">curriculum</a>
       </li>
